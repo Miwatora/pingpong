@@ -1,0 +1,23 @@
+
+body {
+    background-size: cover;
+}
+
+.header_div
+{
+background: #fed478;
+color: #b0985f; 
+line-height: 0.5;
+}   
+
+.copy_right_footer {
+    position: fixed;
+    color:#b0985f;
+    bottom: 0;
+    width: 100%;
+    font-size: 18px;
+    background-color: #fae0a7;
+    line-height: 1.5;
+    text-align: center;
+   
+ }
